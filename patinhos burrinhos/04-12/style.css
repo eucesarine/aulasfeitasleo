@@ -1,4 +1,4 @@
-/* Estilos para dispositivos móveis */
+
 @media (max-width: 768px) {
   #cabecalho-desk {
     display: none;
@@ -52,10 +52,10 @@
   }
 }
 
-/* Estilos para desktop */
+
 @media (min-width: 769px) {
   #cabecalho-mobile {
-    display: none; /* não exibe o cabeçalho para mobile */
+    display: none; 
   }
 
   .cabecalho {
